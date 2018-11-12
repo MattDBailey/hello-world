@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Just taking this bad boy for a ride
